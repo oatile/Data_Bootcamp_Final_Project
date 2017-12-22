@@ -10,4 +10,9 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description: This project will look at the effect of family household income levels on average SAT scores in New York State as the beginning to a larger question on educations role in addressing inequality.
+Project Description: 
+This project will look at the effect of family household income levels on average SAT scores in New York State as the beginning to a larger question on educations role in addressing inequality. 
+
+In my time at NYU, I have deveoped an interest in emerging markets and economic mobility. Essentially, what are some of the factors that would contribute to overall economic growth in a way that does isolate lower earning communities? The overall question of inclusive growth would be too grand for the scope of this project. Instead, I aim to identify the correlation between education and income inequality, and how it may affect economic mobility. 
+
+
