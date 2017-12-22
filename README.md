@@ -10,4 +10,4 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description: 
+Project Description: This project will look at the effect of family household income levels on average SAT scores in New York State as the beginning to a larger question on educations role in addressing inequality.
